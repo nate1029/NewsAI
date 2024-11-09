@@ -12,7 +12,6 @@ import pandas as pd
 import plotly.colors as pc
 import plotly.express as px
 import requests
-import seaborn as sns
 import streamlit as st
 from PIL import Image
 from streamlit_echarts import st_echarts
