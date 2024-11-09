@@ -11,7 +11,7 @@ from src.utils.logger import setup_logger
 
 # Load API key from .env file
 load_dotenv()
-API_KEY = os.getenv("NEWS_API_KEY")
+API_KEY = os.getenv("0ad0f46e-ebfe-4618-bb73-47470ee3300a")
 
 # Configure logger
 logger = setup_logger()

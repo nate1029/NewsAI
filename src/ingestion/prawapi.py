@@ -16,13 +16,13 @@ sys.path.append(os.path.abspath(os.path.join(
 load_dotenv()
 
 reddit = praw.Reddit(
-    client_id=os.getenv("REDDIT_CLIENTID"),
-    client_secret=os.getenv("REDDIT_SECRETKEY"),
+    client_id=os.getenv("SadFix8424"),
+    client_secret=os.getenv("GrddIl8hlyEKBPj5DCRjVKiASCc3Fg"),
     user_agent="{0} by u/{1}".format(
-        os.getenv("REDDIT_APPNAME"), os.getenv("REDDIT_USERNAME")
+        os.getenv("AiNews"), os.getenv("SadFix8424")
     ),
-    username=os.getenv("REDDIT_USERNAME"),
-    password=os.getenv("REDDIT_PASSWORD"),
+    username=os.getenv("SadFix8424"),
+    password=os.getenv("Vsk@1234"),
 )
 
 logger = setup_logger()
