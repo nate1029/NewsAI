@@ -10,7 +10,7 @@ from src.utils.logger import setup_logger
 
 load_dotenv()
 
-genai.configure(api_key=os.environ["GEMINI_API_KEY"])
+genai.configure(api_key=os.environ["AIzaSyDW5i3KArM26i87-CtAO8Pfi7uCPHgvnuo"])
 
 
 # Setup logger
