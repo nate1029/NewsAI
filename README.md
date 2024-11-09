@@ -13,11 +13,10 @@ Imagine if CNN, Reddit, and a fortune-teller had a baby, and that baby was raise
 ## Deployment
 
 Deployment link :
-
+(just paste in browser and enter)
 ```bash
 https://news-ai-dashboard.streamlit.app/
 ```
- 
 ## Demo
 
 https://youtu.be/VFO0wqOPlVo
